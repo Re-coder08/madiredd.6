@@ -20,7 +20,7 @@ Output:
 
 The output is stored in output.txt
 
-3. version control - git
-dir - /classes/OS/madireddd/madiredd.6
+3. version control:
+git: /classes/OS/madiredd/madiredd.6/log
 
  
